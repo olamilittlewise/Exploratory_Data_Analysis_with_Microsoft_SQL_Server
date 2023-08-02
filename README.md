@@ -19,4 +19,16 @@ Clauses and Concepts applied include:
 - ALTER TABLE
 - UPDATE
 
+### Problem Statement
+- How does the overall flight volume vary by month?
+- How does the overall flight volume vary by day of week?
+- Percentage of flights that experienced a departure delay in 2015
+- Average Departure delay time in minute
+- Total Flight Cancellation in 2015
+- Cancellation reasons
+- Most relaible airlines in terms of on-time departure
+- Least relaible airlines in terms of late departure
+- Least relaible airlines in terms of Cancellation
+
+  ---
 Now, grab some popcorn and let's [EXPLORE](Airline_delay_analysis.sql) 😄 .
