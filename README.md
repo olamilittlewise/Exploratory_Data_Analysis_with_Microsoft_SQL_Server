@@ -1,4 +1,4 @@
-# Airline Flight Delays with Microsoft SQL Server
+# Airline Flight Delays Analysis with Microsoft SQL Server
 
 This is an exhibition of my skills in using Microsoft SQL to interact with a relational database.
 The data used in this project was provided by Quantum Analytics NG. It contains records for 5,000,000+ commercial airline flights in 2015, compiled for the U.S. DOT Air Travel Consumer Report. Each record represents a single flight, including the airline
@@ -19,4 +19,4 @@ Clauses and Concepts applied include:
 - ALTER TABLE
 - UPDATE
 
-Now, grab some popcorn and let's EXPLORE![](Airline_delay_analysis.sql) 😄 .
+Now, grab some popcorn and let's [EXPLORE](Airline_delay_analysis.sql) 😄 .
