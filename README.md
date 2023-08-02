@@ -19,4 +19,4 @@ Clauses and Concepts applied include:
 - ALTER TABLE
 - UPDATE
 
-Now, grab some popcorn and let's EXPLORE 😄 .
+Now, grab some popcorn and let's EXPLORE![](Airline_delay_analysis.sql) 😄 .
